@@ -3,7 +3,7 @@ php-file-parser
 
 PHP 5 command-line file parsing application
 
-Author: Andrew Samuels
+Author: Andrew
 
 USAGE:
 	In the main folder:
